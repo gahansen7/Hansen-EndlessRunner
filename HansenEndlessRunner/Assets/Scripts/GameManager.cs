@@ -50,6 +50,9 @@ public class GameManager : MonoBehaviour
        //     Destroy button;
        // }
 
+
+        //need to have a final score desplay when you die
+
     }
 
 }
